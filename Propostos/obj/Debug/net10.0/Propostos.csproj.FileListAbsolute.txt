@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\obj\Debug\net10.0\Propostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\obj\Debug\net10.0\Propostos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\obj\Debug\net10.0\Propostos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\obj\Debug\net10.0\Propostos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\obj\Debug\net10.0\Propostos.sourcelink.json
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\bin\Debug\net10.0\Propostos.exe
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\bin\Debug\net10.0\Propostos.deps.json
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\bin\Debug\net10.0\Propostos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\bin\Debug\net10.0\Propostos.dll
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\bin\Debug\net10.0\Propostos.pdb
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\obj\Debug\net10.0\Propostos.dll
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\obj\Debug\net10.0\refint\Propostos.dll
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\obj\Debug\net10.0\Propostos.pdb
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\obj\Debug\net10.0\Propostos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Projetos\CSharp\Propostos\obj\Debug\net10.0\ref\Propostos.dll
